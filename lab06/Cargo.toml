@@ -1,0 +1,11 @@
+[package]
+name = "lab06"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+itertools = "0.14.0"
+num_cpus = "1.16"
+meval = "0.2"
+
+
